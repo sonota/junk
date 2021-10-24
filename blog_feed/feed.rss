@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:image="http://purl.org/rss/1.0/modules/image/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel rdf:about="TODO">
+    <title>memo88</title>
+    <link>https://memo88.hatenablog.com/</link>
+    <description>TODO</description>
+    <items>
+      <rdf:Seq>
+        <rdf:li resource="https://qiita.com/sonota88/items/1e683276541cf1b87b76"/>
+        <rdf:li resource="https://qiita.com/sonota88/items/501f0efa437bc4d53cc7"/>
+        <rdf:li resource="https://memo88.hatenablog.com/entry/2020/08/16/083046"/>
+        <rdf:li resource="https://memo88.hatenablog.com/entry/2020/07/23/090115"/>
+        <rdf:li resource="https://qiita.com/sonota88/items/2b95378b43a22109513c"/>
+        <rdf:li resource="https://qiita.com/sonota88/items/a5d6d3539e0fb8040f74"/>
+        <rdf:li resource="https://qiita.com/sonota88/items/f9cb3fc4a496b354b729"/>
+        <rdf:li resource="https://memo88.hatenablog.com/entry/20160317/1458224137"/>
+        <rdf:li resource="https://memo88.hatenablog.com/entry/20160303/1457007566"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://qiita.com/sonota88/items/1e683276541cf1b87b76">
+    <title>素朴な自作言語Pricのコンパイラをセルフホストした</title>
+    <link>https://qiita.com/sonota88/items/1e683276541cf1b87b76</link>
+    <dc:date>2021-06-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://qiita.com/sonota88/items/501f0efa437bc4d53cc7">
+    <title>LibreOffice BasicでLispインタプリタ（mal）を書いた</title>
+    <link>https://qiita.com/sonota88/items/501f0efa437bc4d53cc7</link>
+    <dc:date>2020-12-04T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://memo88.hatenablog.com/entry/2020/08/16/083046">
+    <title>きしださんのかわいいリレーショナルデータベースをRubyで写経した</title>
+    <link>https://memo88.hatenablog.com/entry/2020/08/16/083046</link>
+    <dc:date>2020-08-16T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://memo88.hatenablog.com/entry/2020/07/23/090115">
+    <title>正規表現エンジン（ロブ・パイクのバックトラック実装）をRubyで写経した</title>
+    <link>https://memo88.hatenablog.com/entry/2020/07/23/090115</link>
+    <dc:date>2020-07-23T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://qiita.com/sonota88/items/2b95378b43a22109513c">
+    <title>Rubyでかんたんな自作言語のコンパイラを作った</title>
+    <link>https://qiita.com/sonota88/items/2b95378b43a22109513c</link>
+    <dc:date>2020-05-04T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://qiita.com/sonota88/items/a5d6d3539e0fb8040f74">
+    <title>Ruby＋DXOpalでリレー式論理回路シミュレータを自作して1bit CPUまで動かした</title>
+    <link>https://qiita.com/sonota88/items/a5d6d3539e0fb8040f74</link>
+    <dc:date>2020-05-03T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://qiita.com/sonota88/items/f9cb3fc4a496b354b729">
+    <title>RubyでオレオレVMとアセンブラとコード生成器を2週間で作ってライフゲームを動かした話</title>
+    <link>https://qiita.com/sonota88/items/f9cb3fc4a496b354b729</link>
+    <dc:date>2019-05-04T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://memo88.hatenablog.com/entry/20160317/1458224137">
+    <title>Rubyで素朴なSA-IS（suffix array induced sorting）を書いてみた</title>
+    <link>https://memo88.hatenablog.com/entry/20160317/1458224137</link>
+    <dc:date>2016-03-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://memo88.hatenablog.com/entry/20160303/1457007566">
+    <title>Rubyで素朴なFM-indexを書いてみた</title>
+    <link>https://memo88.hatenablog.com/entry/20160303/1457007566</link>
+    <dc:date>2016-03-03T00:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
