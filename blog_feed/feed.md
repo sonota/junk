@@ -1,7 +1,103 @@
+# Raccでかんたんな自作言語のパーサを書いた
+
+date: 2021-10-12
+url: https://qiita.com/sonota88/items/97ba1f0c377fbe86d5b1
+
+
+# Haskellでかんたんな自作言語のコンパイラを書いた
+
+date: 2021-06-28
+url: https://memo88.hatenablog.com/entry/20210628_vm2gol_v2_haskell
+
+
+# OCamlでかんたんな自作言語のコンパイラを書いた
+
+date: 2021-06-26
+url: https://memo88.hatenablog.com/entry/20210626_vm2gol_v2_ocaml
+
+
 # 素朴な自作言語Pricのコンパイラをセルフホストした
 
 date: 2021-06-21
 url: https://qiita.com/sonota88/items/1e683276541cf1b87b76
+
+
+# Pascalでかんたんな自作言語のコンパイラを書いた
+
+date: 2021-05-22
+url: https://qiita.com/sonota88/items/4d446b778ffbbaab267c
+
+
+# Juliaでかんたんな自作言語のコンパイラを書いた
+
+date: 2021-05-02
+url: https://qiita.com/sonota88/items/b80696f23a08c3c2fc5d
+
+
+# Reline.readmultilineの練習: mysqlコマンドのラッパーを作ってちょっといい感じにしてみる
+
+date: 2021-04-18
+url: https://memo88.hatenablog.com/entry/20210418_reline_readmultiline_mysql_wrapper
+
+
+# Reline.readmultiline ちょっと調べたメモ
+
+date: 2021-04-17
+url: https://memo88.hatenablog.com/entry/20210417_reline_readmultiline
+
+
+# 素朴な自作言語のコンパイラをRustに移植した
+
+date: 2021-04-07
+url: https://memo88.hatenablog.com/entry/20210407_vm2gol_v2_rust
+
+
+# 素朴な自作言語のコンパイラをCrystalに移植した
+
+date: 2021-03-27
+url: https://qiita.com/sonota88/items/275c2b5407986b100cc8
+
+
+# hive-modoki: かんたんな Apache Hive のクローンを作っていた話
+
+date: 2021-03-08
+url: https://memo88.hatenablog.com/entry/20210308_hive_modoki
+
+
+# 素朴な自作言語のコンパイラをKotlinに移植した
+
+date: 2021-01-14
+url: https://memo88.hatenablog.com/entry/2021/01/14/032813
+
+
+# 素朴な自作言語のコンパイラをZigに移植した
+
+date: 2021-01-07
+url: https://memo88.hatenablog.com/entry/2021/01/07/235019
+
+
+# Ruby/Racc: パース時のスタックの動きをFlameGraphっぽくビジュアライズする
+
+date: 2021-01-04
+url: https://qiita.com/sonota88/items/6a96d2bcea9d134e38b7
+
+
+# JRubyでLibreOffice Calcのfodsファイルを読み書きするサンプル 2021
+
+date: 2021-01-02
+url: https://qiita.com/sonota88/items/b88c89d763cf872db5a1
+
+
+# Ruby/Racc: パースに失敗した位置（行、桁）を得る
+
+date: 2021-01-01
+url: https://qiita.com/sonota88/items/f55c1654fe101fa0e557
+
+
+# JavaでLibreOffice Calcのfodsファイルを読み書きするサンプル 2021
+
+date: 2021-01-01
+url: https://qiita.com/sonota88/items/d459b25b1309867645cb
 
 
 # LibreOffice BasicでLispインタプリタ（mal）を書いた

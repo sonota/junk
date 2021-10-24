@@ -33,6 +33,8 @@ rss =
     m.channel.about = "TODO"
     m.channel.description = "TODO"
 
+    m.items.do_sort = true
+
     items.each { |item|
       # rss item
       ri = m.items.new_item

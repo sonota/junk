@@ -14,7 +14,23 @@
     <description>TODO</description>
     <items>
       <rdf:Seq>
+        <rdf:li resource="https://qiita.com/sonota88/items/97ba1f0c377fbe86d5b1"/>
+        <rdf:li resource="https://memo88.hatenablog.com/entry/20210628_vm2gol_v2_haskell"/>
+        <rdf:li resource="https://memo88.hatenablog.com/entry/20210626_vm2gol_v2_ocaml"/>
         <rdf:li resource="https://qiita.com/sonota88/items/1e683276541cf1b87b76"/>
+        <rdf:li resource="https://qiita.com/sonota88/items/4d446b778ffbbaab267c"/>
+        <rdf:li resource="https://qiita.com/sonota88/items/b80696f23a08c3c2fc5d"/>
+        <rdf:li resource="https://memo88.hatenablog.com/entry/20210418_reline_readmultiline_mysql_wrapper"/>
+        <rdf:li resource="https://memo88.hatenablog.com/entry/20210417_reline_readmultiline"/>
+        <rdf:li resource="https://memo88.hatenablog.com/entry/20210407_vm2gol_v2_rust"/>
+        <rdf:li resource="https://qiita.com/sonota88/items/275c2b5407986b100cc8"/>
+        <rdf:li resource="https://memo88.hatenablog.com/entry/20210308_hive_modoki"/>
+        <rdf:li resource="https://memo88.hatenablog.com/entry/2021/01/14/032813"/>
+        <rdf:li resource="https://memo88.hatenablog.com/entry/2021/01/07/235019"/>
+        <rdf:li resource="https://qiita.com/sonota88/items/6a96d2bcea9d134e38b7"/>
+        <rdf:li resource="https://qiita.com/sonota88/items/b88c89d763cf872db5a1"/>
+        <rdf:li resource="https://qiita.com/sonota88/items/f55c1654fe101fa0e557"/>
+        <rdf:li resource="https://qiita.com/sonota88/items/d459b25b1309867645cb"/>
         <rdf:li resource="https://qiita.com/sonota88/items/501f0efa437bc4d53cc7"/>
         <rdf:li resource="https://memo88.hatenablog.com/entry/2020/08/16/083046"/>
         <rdf:li resource="https://memo88.hatenablog.com/entry/2020/07/23/090115"/>
@@ -26,10 +42,90 @@
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://qiita.com/sonota88/items/97ba1f0c377fbe86d5b1">
+    <title>Raccでかんたんな自作言語のパーサを書いた</title>
+    <link>https://qiita.com/sonota88/items/97ba1f0c377fbe86d5b1</link>
+    <dc:date>2021-10-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://memo88.hatenablog.com/entry/20210628_vm2gol_v2_haskell">
+    <title>Haskellでかんたんな自作言語のコンパイラを書いた</title>
+    <link>https://memo88.hatenablog.com/entry/20210628_vm2gol_v2_haskell</link>
+    <dc:date>2021-06-28T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://memo88.hatenablog.com/entry/20210626_vm2gol_v2_ocaml">
+    <title>OCamlでかんたんな自作言語のコンパイラを書いた</title>
+    <link>https://memo88.hatenablog.com/entry/20210626_vm2gol_v2_ocaml</link>
+    <dc:date>2021-06-26T00:00:00+09:00</dc:date>
+  </item>
   <item rdf:about="https://qiita.com/sonota88/items/1e683276541cf1b87b76">
     <title>素朴な自作言語Pricのコンパイラをセルフホストした</title>
     <link>https://qiita.com/sonota88/items/1e683276541cf1b87b76</link>
     <dc:date>2021-06-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://qiita.com/sonota88/items/4d446b778ffbbaab267c">
+    <title>Pascalでかんたんな自作言語のコンパイラを書いた</title>
+    <link>https://qiita.com/sonota88/items/4d446b778ffbbaab267c</link>
+    <dc:date>2021-05-22T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://qiita.com/sonota88/items/b80696f23a08c3c2fc5d">
+    <title>Juliaでかんたんな自作言語のコンパイラを書いた</title>
+    <link>https://qiita.com/sonota88/items/b80696f23a08c3c2fc5d</link>
+    <dc:date>2021-05-02T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://memo88.hatenablog.com/entry/20210418_reline_readmultiline_mysql_wrapper">
+    <title>Reline.readmultilineの練習: mysqlコマンドのラッパーを作ってちょっといい感じにしてみる</title>
+    <link>https://memo88.hatenablog.com/entry/20210418_reline_readmultiline_mysql_wrapper</link>
+    <dc:date>2021-04-18T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://memo88.hatenablog.com/entry/20210417_reline_readmultiline">
+    <title>Reline.readmultiline ちょっと調べたメモ</title>
+    <link>https://memo88.hatenablog.com/entry/20210417_reline_readmultiline</link>
+    <dc:date>2021-04-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://memo88.hatenablog.com/entry/20210407_vm2gol_v2_rust">
+    <title>素朴な自作言語のコンパイラをRustに移植した</title>
+    <link>https://memo88.hatenablog.com/entry/20210407_vm2gol_v2_rust</link>
+    <dc:date>2021-04-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://qiita.com/sonota88/items/275c2b5407986b100cc8">
+    <title>素朴な自作言語のコンパイラをCrystalに移植した</title>
+    <link>https://qiita.com/sonota88/items/275c2b5407986b100cc8</link>
+    <dc:date>2021-03-27T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://memo88.hatenablog.com/entry/20210308_hive_modoki">
+    <title>hive-modoki: かんたんな Apache Hive のクローンを作っていた話</title>
+    <link>https://memo88.hatenablog.com/entry/20210308_hive_modoki</link>
+    <dc:date>2021-03-08T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://memo88.hatenablog.com/entry/2021/01/14/032813">
+    <title>素朴な自作言語のコンパイラをKotlinに移植した</title>
+    <link>https://memo88.hatenablog.com/entry/2021/01/14/032813</link>
+    <dc:date>2021-01-14T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://memo88.hatenablog.com/entry/2021/01/07/235019">
+    <title>素朴な自作言語のコンパイラをZigに移植した</title>
+    <link>https://memo88.hatenablog.com/entry/2021/01/07/235019</link>
+    <dc:date>2021-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://qiita.com/sonota88/items/6a96d2bcea9d134e38b7">
+    <title>Ruby/Racc: パース時のスタックの動きをFlameGraphっぽくビジュアライズする</title>
+    <link>https://qiita.com/sonota88/items/6a96d2bcea9d134e38b7</link>
+    <dc:date>2021-01-04T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://qiita.com/sonota88/items/b88c89d763cf872db5a1">
+    <title>JRubyでLibreOffice Calcのfodsファイルを読み書きするサンプル 2021</title>
+    <link>https://qiita.com/sonota88/items/b88c89d763cf872db5a1</link>
+    <dc:date>2021-01-02T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://qiita.com/sonota88/items/f55c1654fe101fa0e557">
+    <title>Ruby/Racc: パースに失敗した位置（行、桁）を得る</title>
+    <link>https://qiita.com/sonota88/items/f55c1654fe101fa0e557</link>
+    <dc:date>2021-01-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://qiita.com/sonota88/items/d459b25b1309867645cb">
+    <title>JavaでLibreOffice Calcのfodsファイルを読み書きするサンプル 2021</title>
+    <link>https://qiita.com/sonota88/items/d459b25b1309867645cb</link>
+    <dc:date>2021-01-01T00:00:00+09:00</dc:date>
   </item>
   <item rdf:about="https://qiita.com/sonota88/items/501f0efa437bc4d53cc7">
     <title>LibreOffice BasicでLispインタプリタ（mal）を書いた</title>
