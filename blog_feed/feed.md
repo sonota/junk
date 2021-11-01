@@ -1,3 +1,9 @@
+# Parsletでかんたんな自作言語のパーサを書いた
+
+date: 2021-11-02
+url: https://qiita.com/sonota88/items/edce05e86d3248f49401
+
+
 # Raccでかんたんな自作言語のパーサを書いた
 
 date: 2021-10-12
@@ -37,7 +43,7 @@ url: https://qiita.com/sonota88/items/b80696f23a08c3c2fc5d
 # Reline.readmultilineの練習: mysqlコマンドのラッパーを作ってちょっといい感じにしてみる
 
 date: 2021-04-18
-url: https://memo88.hatenablog.com/entry/20210418_reline_readmultiline_mysql_wrapper
+url: https://zenn.dev/sonota88/articles/12636911b45ebc
 
 
 # Reline.readmultiline ちょっと調べたメモ
