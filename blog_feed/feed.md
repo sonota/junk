@@ -1,3 +1,9 @@
+# なでしこ3で簡単なcatコマンドを作る / 日本語プログラミング言語「なでしこ」 Advent Calendar 2021 6日目
+
+date: 2021-12-07
+url: https://qiita.com/sonota88/items/d43c9618498062863e58
+
+
 # Parsletでかんたんな自作言語のパーサを書いた
 
 date: 2021-11-02
