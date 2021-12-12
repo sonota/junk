@@ -1,3 +1,9 @@
+# なでしこ3でかんたんな自作言語のコンパイラを書いた / 日本語プログラミング言語「なでしこ」 Advent Calendar 2021 13日目
+
+date: 2021-12-13
+url: https://qiita.com/sonota88/items/54c65e97aa563009137e
+
+
 # LibreOffice Calcのfodsファイルを読み書きするサンプルをweb API化してみた / LibreOffice Advent Calendar 2021 11日目
 
 date: 2021-12-11
