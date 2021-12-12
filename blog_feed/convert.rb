@@ -40,7 +40,7 @@ rss =
       ri = m.items.new_item
       ri.link = item.url
       ri.title = item.title
-      ri.date = Time.parse(item.date)
+      ri.date = Time.parse(item.date + " 12:00:00")
     }
   end
 
