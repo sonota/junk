@@ -1,3 +1,9 @@
+# シェルスクリプト（Bashスクリプト）でかんたんな自作言語のコンパイラを書いた / シェルスクリプト Advent Calendar 2021 20日目
+
+date: 2021-12-20
+url: https://qiita.com/sonota88/items/79dd2b0c1dae776c56d9
+
+
 # なでしこ3でかんたんな自作言語のコンパイラを書いた / 日本語プログラミング言語「なでしこ」 Advent Calendar 2021 13日目
 
 date: 2021-12-13
