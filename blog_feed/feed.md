@@ -1,3 +1,9 @@
+# malでかんたんなテンプレートエンジンを書いてみた / Lisp Advent Calendar 2021 25日目
+
+date: 2021-12-25
+url: https://qiita.com/sonota88/items/afc83016ae199ff3e0ee
+
+
 # シェルスクリプト（Bashスクリプト）でかんたんな自作言語のコンパイラを書いた / シェルスクリプト Advent Calendar 2021 20日目
 
 date: 2021-12-20
