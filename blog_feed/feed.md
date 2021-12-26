@@ -1,3 +1,9 @@
+# Tclでかんたんな自作言語のコンパイラを書いた / Tcl/Tk Advent Calendar 2021 25日目
+
+date: 2021-12-26
+url: https://qiita.com/sonota88/items/988d9cb4ba2077c49d64
+
+
 # malでかんたんなテンプレートエンジンを書いてみた / Lisp Advent Calendar 2021 25日目
 
 date: 2021-12-25

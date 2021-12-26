@@ -14,6 +14,7 @@
     <description>TODO</description>
     <items>
       <rdf:Seq>
+        <rdf:li resource="https://qiita.com/sonota88/items/988d9cb4ba2077c49d64"/>
         <rdf:li resource="https://qiita.com/sonota88/items/afc83016ae199ff3e0ee"/>
         <rdf:li resource="https://qiita.com/sonota88/items/79dd2b0c1dae776c56d9"/>
         <rdf:li resource="https://qiita.com/sonota88/items/54c65e97aa563009137e"/>
@@ -48,6 +49,11 @@
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://qiita.com/sonota88/items/988d9cb4ba2077c49d64">
+    <title>Tclでかんたんな自作言語のコンパイラを書いた / Tcl/Tk Advent Calendar 2021 25日目</title>
+    <link>https://qiita.com/sonota88/items/988d9cb4ba2077c49d64</link>
+    <dc:date>2021-12-26T12:00:00+09:00</dc:date>
+  </item>
   <item rdf:about="https://qiita.com/sonota88/items/afc83016ae199ff3e0ee">
     <title>malでかんたんなテンプレートエンジンを書いてみた / Lisp Advent Calendar 2021 25日目</title>
     <link>https://qiita.com/sonota88/items/afc83016ae199ff3e0ee</link>
