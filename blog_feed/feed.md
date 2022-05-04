@@ -1,3 +1,8 @@
+# Opal::Builder を使ってコンパイルする際に source map も生成する
+
+date: 2022-05-04
+url: https://qiita.com/sonota88/items/22183b135084a8875494
+
 # Tclでかんたんな自作言語のコンパイラを書いた / Tcl/Tk Advent Calendar 2021 25日目
 
 date: 2021-12-26
