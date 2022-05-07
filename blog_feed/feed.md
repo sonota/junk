@@ -1,3 +1,8 @@
+# Ubuntu 22.04にJupyter NotebookとIRubyをインストール（pyenv, rbenv を使用）
+
+date: 2022-05-07
+url: https://qiita.com/sonota88/items/539c631b0f7dfb295fec
+
 # Opal::Builder を使ってコンパイルする際に source map も生成する
 
 date: 2022-05-04
