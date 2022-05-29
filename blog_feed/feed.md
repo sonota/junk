@@ -1,3 +1,8 @@
+# Ruby + ruby_gnuplot（gnuplot gem）で散布図を描く
+
+date: 2022-05-29
+url: https://qiita.com/sonota88/items/50609275668fcd7511e4
+
 # Ubuntu 22.04にJupyter NotebookとIRubyをインストール（pyenv, rbenv を使用）
 
 date: 2022-05-07
