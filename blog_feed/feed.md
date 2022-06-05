@@ -1,3 +1,8 @@
+# Ruby + Numo::Gnuplot（numo-gnuplot gem）で散布図を描く
+
+date: 2022-06-05
+url: https://qiita.com/sonota88/items/da02c6f9f85c5a33f0a1
+
 # Ruby + ruby_gnuplot（gnuplot gem）で散布図を描く
 
 date: 2022-05-29

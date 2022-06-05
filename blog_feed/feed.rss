@@ -14,6 +14,7 @@
     <description>TODO</description>
     <items>
       <rdf:Seq>
+        <rdf:li resource="https://qiita.com/sonota88/items/da02c6f9f85c5a33f0a1"/>
         <rdf:li resource="https://qiita.com/sonota88/items/50609275668fcd7511e4"/>
         <rdf:li resource="https://qiita.com/sonota88/items/539c631b0f7dfb295fec"/>
         <rdf:li resource="https://qiita.com/sonota88/items/22183b135084a8875494"/>
@@ -52,6 +53,11 @@
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://qiita.com/sonota88/items/da02c6f9f85c5a33f0a1">
+    <title>Ruby + Numo::Gnuplot（numo-gnuplot gem）で散布図を描く</title>
+    <link>https://qiita.com/sonota88/items/da02c6f9f85c5a33f0a1</link>
+    <dc:date>2022-06-05T12:00:00+09:00</dc:date>
+  </item>
   <item rdf:about="https://qiita.com/sonota88/items/50609275668fcd7511e4">
     <title>Ruby + ruby_gnuplot（gnuplot gem）で散布図を描く</title>
     <link>https://qiita.com/sonota88/items/50609275668fcd7511e4</link>
