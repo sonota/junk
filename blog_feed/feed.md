@@ -1,3 +1,8 @@
+# Ruby + Victor でSVGお絵描き（簡単な散布図を描いてみた）
+
+date: 2022-06-05
+url: https://qiita.com/sonota88/items/7e2ab396163c081657b1
+
 # Ruby + Numo::Gnuplot（numo-gnuplot gem）で散布図を描く
 
 date: 2022-06-05
