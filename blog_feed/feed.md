@@ -1,3 +1,8 @@
+# Galaaz を触ってみた（TruffleRuby + ggplot2 で散布図を描いてみた）
+
+date: 2022-06-12
+url: https://qiita.com/sonota88/items/b586e96f7805a5695a34
+
 # Ruby + Victor でSVGお絵描き（簡単な散布図を描いてみた）
 
 date: 2022-06-05
