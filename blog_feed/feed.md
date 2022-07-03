@@ -1,3 +1,8 @@
+# SVG::Graph（svg-graph gem）で散布図を描く
+
+date: 2022-07-03
+url: https://qiita.com/sonota88/items/86afece3b2595648a656
+
 # Galaaz を触ってみた（TruffleRuby + ggplot2 で散布図を描いてみた）
 
 date: 2022-06-12

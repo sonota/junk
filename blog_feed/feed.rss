@@ -14,6 +14,7 @@
     <description>TODO</description>
     <items>
       <rdf:Seq>
+        <rdf:li resource="https://qiita.com/sonota88/items/86afece3b2595648a656"/>
         <rdf:li resource="https://qiita.com/sonota88/items/b586e96f7805a5695a34"/>
         <rdf:li resource="https://qiita.com/sonota88/items/7e2ab396163c081657b1"/>
         <rdf:li resource="https://qiita.com/sonota88/items/da02c6f9f85c5a33f0a1"/>
@@ -55,6 +56,11 @@
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://qiita.com/sonota88/items/86afece3b2595648a656">
+    <title>SVG::Graph（svg-graph gem）で散布図を描く</title>
+    <link>https://qiita.com/sonota88/items/86afece3b2595648a656</link>
+    <dc:date>2022-07-03T12:00:00+09:00</dc:date>
+  </item>
   <item rdf:about="https://qiita.com/sonota88/items/b586e96f7805a5695a34">
     <title>Galaaz を触ってみた（TruffleRuby + ggplot2 で散布図を描いてみた）</title>
     <link>https://qiita.com/sonota88/items/b586e96f7805a5695a34</link>
