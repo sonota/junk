@@ -1,3 +1,8 @@
+# vm2gol v2 （63） sub_sp 命令を廃止 / panic
+
+date: 2022-08-11
+url: https://memo88.hatenablog.com/entry/20220811_vm2gol_v2_63_sub_sp_panic
+
 # SVG::Graph（svg-graph gem）で散布図を描く
 
 date: 2022-07-03
