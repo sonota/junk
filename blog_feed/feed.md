@@ -1,3 +1,8 @@
+# 自作言語のコンパイラにオレオレアセンブリではなくx86_64アセンブリを生成させる（関数呼び出し＋足し算だけ）
+
+date: 2022-08-21
+url: https://qiita.com/sonota88/items/6870ef5fe5b2a9275ab7
+
 # vm2gol v2 （63） sub_sp 命令を廃止 / panic
 
 date: 2022-08-11
