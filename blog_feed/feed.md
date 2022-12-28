@@ -1,3 +1,19 @@
+# 『RubyでつくるRuby』のMinRubyのパーサを書いた（手書きの再帰下降パーサ） / Ruby Advent Calendar 2022 25日目
+date: 2022-12-25
+url: https://qiita.com/sonota88/items/84e4c16e5602b9771e92
+
+# Ruby: 入れ子の配列だけをパースできるパーサを作る（手書きの再帰下降パーサ）
+date: 2022-12-25
+url: https://qiita.com/sonota88/items/816b6b8d7a362ef4e332
+
+# DockerでLibreOffice Basicマクロを実行する（2022年版）
+date: 2022-12-11
+url: https://qiita.com/sonota88/items/395a32555d1187df2cc3
+
+# HTML+JavaScriptでEmacsのalign-regexpっぽいやつを作った
+date: 2022-12-03
+url: https://zenn.dev/sonota88/articles/33581c9dc3b686
+
 # Dockerを利用してDXOpalアプリケーションを手軽に事前コンパイルする
 
 date: 2022-10-09
