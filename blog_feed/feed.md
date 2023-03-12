@@ -1,3 +1,7 @@
+# Forth（Gforth）でかんたんな自作言語のコンパイラを書いた
+date: 2023-03-12
+url: https://qiita.com/sonota88/items/cdc6322d802844dc0953
+
 # 『RubyでつくるRuby』のMinRubyのパーサを書いた（手書きの再帰下降パーサ） / Ruby Advent Calendar 2022 25日目
 date: 2022-12-25
 url: https://qiita.com/sonota88/items/84e4c16e5602b9771e92
