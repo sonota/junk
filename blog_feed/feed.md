@@ -1,3 +1,7 @@
+# V言語でかんたんな自作言語のコンパイラを書いた
+date: 2023-04-23
+url: https://memo88.hatenablog.com/entry/mini_ruccola_vlang
+
 # Forth（Gforth）でかんたんな自作言語のコンパイラを書いた
 date: 2023-03-12
 url: https://qiita.com/sonota88/items/cdc6322d802844dc0953
