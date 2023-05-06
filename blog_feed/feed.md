@@ -1,3 +1,7 @@
+# PyCall.rb + Pandas: DataFrame#query の代わりにS式っぽく書けないか試してみた
+date: 2023-05-06
+url: https://qiita.com/sonota88/items/7c81beca2c86fdf21556
+
 # V言語でかんたんな自作言語のコンパイラを書いた
 date: 2023-04-23
 url: https://memo88.hatenablog.com/entry/mini_ruccola_vlang
