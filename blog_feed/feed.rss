@@ -14,6 +14,7 @@
     <description>TODO</description>
     <items>
       <rdf:Seq>
+        <rdf:li resource="https://qiita.com/sonota88/items/372da20581c16cbd4eea"/>
         <rdf:li resource="https://qiita.com/sonota88/items/7c81beca2c86fdf21556"/>
         <rdf:li resource="https://memo88.hatenablog.com/entry/mini_ruccola_vlang"/>
         <rdf:li resource="https://qiita.com/sonota88/items/cdc6322d802844dc0953"/>
@@ -66,6 +67,11 @@
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://qiita.com/sonota88/items/372da20581c16cbd4eea">
+    <title>Lramaで簡単な自作言語のパーサを書いた</title>
+    <link>https://qiita.com/sonota88/items/372da20581c16cbd4eea</link>
+    <dc:date>2023-05-21T12:00:00+09:00</dc:date>
+  </item>
   <item rdf:about="https://qiita.com/sonota88/items/7c81beca2c86fdf21556">
     <title>PyCall.rb + Pandas: DataFrame#query の代わりにS式っぽく書けないか試してみた</title>
     <link>https://qiita.com/sonota88/items/7c81beca2c86fdf21556</link>
