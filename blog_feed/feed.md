@@ -1,3 +1,7 @@
+# Ruby/StringScanner: scan_full, search_full 系メソッドの整理
+date: 2023-05-28
+url: https://qiita.com/sonota88/items/a7da299b84f17459967c
+
 # Lramaで簡単な自作言語のパーサを書いた
 date: 2023-05-21
 url: https://qiita.com/sonota88/items/372da20581c16cbd4eea
