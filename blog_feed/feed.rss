@@ -15,6 +15,7 @@
     <items>
       <rdf:Seq>
         <rdf:li resource="https://qiita.com/sonota88/items/372da20581c16cbd4eea"/>
+        <rdf:li resource="https://qiita.com/sonota88/items/52d0e35dc5e6e112c02f"/>
         <rdf:li resource="https://qiita.com/sonota88/items/7c81beca2c86fdf21556"/>
         <rdf:li resource="https://memo88.hatenablog.com/entry/mini_ruccola_vlang"/>
         <rdf:li resource="https://qiita.com/sonota88/items/cdc6322d802844dc0953"/>
@@ -71,6 +72,11 @@
     <title>Lramaで簡単な自作言語のパーサを書いた</title>
     <link>https://qiita.com/sonota88/items/372da20581c16cbd4eea</link>
     <dc:date>2023-05-21T12:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://qiita.com/sonota88/items/52d0e35dc5e6e112c02f">
+    <title>Ruby + PyCall でデータサイエンス100本ノック（構造化データ加工編）をやってみた</title>
+    <link>https://qiita.com/sonota88/items/52d0e35dc5e6e112c02f</link>
+    <dc:date>2023-05-17T12:00:00+09:00</dc:date>
   </item>
   <item rdf:about="https://qiita.com/sonota88/items/7c81beca2c86fdf21556">
     <title>PyCall.rb + Pandas: DataFrame#query の代わりにS式っぽく書けないか試してみた</title>

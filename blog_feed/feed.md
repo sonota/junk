@@ -2,6 +2,10 @@
 date: 2023-05-21
 url: https://qiita.com/sonota88/items/372da20581c16cbd4eea
 
+# Ruby + PyCall でデータサイエンス100本ノック（構造化データ加工編）をやってみた
+date: 2023-05-17
+url: https://qiita.com/sonota88/items/52d0e35dc5e6e112c02f
+
 # PyCall.rb + Pandas: DataFrame#query の代わりにS式っぽく書けないか試してみた
 date: 2023-05-06
 url: https://qiita.com/sonota88/items/7c81beca2c86fdf21556
