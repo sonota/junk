@@ -1,3 +1,7 @@
+# C#で簡単な自作言語のコンパイラを書いた
+date: 2023-07-02
+url: https://qiita.com/sonota88/items/c0a5bf76d7eb3aa4c507
+
 # Ruby/StringScanner: scan_full, search_full 系メソッドの整理
 date: 2023-05-28
 url: https://qiita.com/sonota88/items/a7da299b84f17459967c
