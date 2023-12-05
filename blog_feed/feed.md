@@ -1,3 +1,7 @@
+# DXOpalでスイカゲームみたいなのを作った
+date: 2023-12-06
+url: https://qiita.com/sonota88/items/105e141d18372918e675
+
 # C#で簡単な自作言語のコンパイラを書いた
 date: 2023-07-02
 url: https://qiita.com/sonota88/items/c0a5bf76d7eb3aa4c507
