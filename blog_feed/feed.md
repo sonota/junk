@@ -1,3 +1,7 @@
+# Elixirで簡単な自作言語のコンパイラを書いた
+date: 2023-12-11
+url: https://qiita.com/sonota88/items/fefef95264320a903300
+
 # DXOpalでスイカゲームみたいなのを作った
 date: 2023-12-06
 url: https://qiita.com/sonota88/items/105e141d18372918e675
