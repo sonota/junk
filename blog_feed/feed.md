@@ -1,3 +1,7 @@
+# R言語で簡単な自作言語のコンパイラを書いた
+date: 2023-12-25
+url: https://qiita.com/sonota88/items/ad58f8af8f11a3d6495c
+
 # プログラミングのお題としてCrystalで簡単なコマンドラインRSSリーダーを作る
 date: 2023-12-24
 url: https://qiita.com/sonota88/items/013bcbd3f8a12e2687db
