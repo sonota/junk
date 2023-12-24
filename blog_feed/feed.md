@@ -1,3 +1,7 @@
+# プログラミングのお題としてCrystalで簡単なコマンドラインRSSリーダーを作る
+date: 2023-12-24
+url: https://qiita.com/sonota88/items/013bcbd3f8a12e2687db
+
 # Elixirで簡単な自作言語のコンパイラを書いた
 date: 2023-12-11
 url: https://qiita.com/sonota88/items/fefef95264320a903300
