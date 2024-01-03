@@ -1,3 +1,7 @@
+# プログラミングのお題としてCrystalで簡単なbeepコマンドを作る
+date: 2024-01-03
+url: https://qiita.com/sonota88/items/fffe2588f8da15ac264d
+
 # R言語で簡単な自作言語のコンパイラを書いた
 date: 2023-12-25
 url: https://qiita.com/sonota88/items/ad58f8af8f11a3d6495c
