@@ -1,3 +1,7 @@
+# Rubyで素朴なdiff（動的計画法）を書いてみた
+date: 2024-02-12
+url: https://qiita.com/sonota88/items/5f040d7aaf494477eefa
+
 # プログラミングのお題としてCrystalで簡単なbeepコマンドを作る
 date: 2024-01-03
 url: https://qiita.com/sonota88/items/fffe2588f8da15ac264d
