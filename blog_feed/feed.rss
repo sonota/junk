@@ -14,6 +14,7 @@
     <description>TODO</description>
     <items>
       <rdf:Seq>
+        <rdf:li resource="https://memo88.hatenablog.com/entry/mini-ruccola-compiler-scala"/>
         <rdf:li resource="https://qiita.com/sonota88/items/5f040d7aaf494477eefa"/>
         <rdf:li resource="https://qiita.com/sonota88/items/fffe2588f8da15ac264d"/>
         <rdf:li resource="https://qiita.com/sonota88/items/ad58f8af8f11a3d6495c"/>
@@ -76,6 +77,11 @@
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://memo88.hatenablog.com/entry/mini-ruccola-compiler-scala">
+    <title>Scalaでシンプルな自作言語のコンパイラを書いた</title>
+    <link>https://memo88.hatenablog.com/entry/mini-ruccola-compiler-scala</link>
+    <dc:date>2024-04-21T12:00:00+09:00</dc:date>
+  </item>
   <item rdf:about="https://qiita.com/sonota88/items/5f040d7aaf494477eefa">
     <title>Rubyで素朴なdiff（動的計画法）を書いてみた</title>
     <link>https://qiita.com/sonota88/items/5f040d7aaf494477eefa</link>

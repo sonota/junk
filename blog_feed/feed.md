@@ -1,3 +1,7 @@
+# Scalaでシンプルな自作言語のコンパイラを書いた
+date: 2024-04-21
+url: https://memo88.hatenablog.com/entry/mini-ruccola-compiler-scala
+
 # Rubyで素朴なdiff（動的計画法）を書いてみた
 date: 2024-02-12
 url: https://qiita.com/sonota88/items/5f040d7aaf494477eefa
