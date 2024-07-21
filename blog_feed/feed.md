@@ -1,3 +1,7 @@
+# AWK（gawk）でシンプルな自作言語のコンパイラを書いた
+date: 2024-07-21
+url: https://qiita.com/sonota88/items/2e2fd758b491c94dc821
+
 # Scalaでシンプルな自作言語のコンパイラを書いた
 date: 2024-04-21
 url: https://memo88.hatenablog.com/entry/mini-ruccola-compiler-scala
