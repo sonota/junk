@@ -1,3 +1,7 @@
+# Gradle: タスク間の依存関係を図示する（Graphviz 使用）
+date: 2024-07-28
+url: https://memo88.hatenablog.com/entry/gradle-task-graph-dependency-graphviz
+
 # AWK（gawk）でシンプルな自作言語のコンパイラを書いた
 date: 2024-07-21
 url: https://qiita.com/sonota88/items/2e2fd758b491c94dc821
