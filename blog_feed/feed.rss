@@ -14,6 +14,7 @@
     <description>TODO</description>
     <items>
       <rdf:Seq>
+        <rdf:li resource="https://qiita.com/sonota88/items/309753549677ccf8209d"/>
         <rdf:li resource="https://memo88.hatenablog.com/entry/gradle-task-graph-dependency-graphviz"/>
         <rdf:li resource="https://qiita.com/sonota88/items/2e2fd758b491c94dc821"/>
         <rdf:li resource="https://memo88.hatenablog.com/entry/mini-ruccola-compiler-scala"/>
@@ -79,6 +80,11 @@
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://qiita.com/sonota88/items/309753549677ccf8209d">
+    <title>Swiftでシンプルな自作言語のコンパイラを書いた</title>
+    <link>https://qiita.com/sonota88/items/309753549677ccf8209d</link>
+    <dc:date>2024-12-03T12:00:00+09:00</dc:date>
+  </item>
   <item rdf:about="https://memo88.hatenablog.com/entry/gradle-task-graph-dependency-graphviz">
     <title>Gradle: タスク間の依存関係を図示する（Graphviz 使用）</title>
     <link>https://memo88.hatenablog.com/entry/gradle-task-graph-dependency-graphviz</link>

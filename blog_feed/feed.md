@@ -1,3 +1,7 @@
+# Swiftでシンプルな自作言語のコンパイラを書いた
+date: 2024-12-03
+url: https://qiita.com/sonota88/items/309753549677ccf8209d
+
 # Gradle: タスク間の依存関係を図示する（Graphviz 使用）
 date: 2024-07-28
 url: https://memo88.hatenablog.com/entry/gradle-task-graph-dependency-graphviz
