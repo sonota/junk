@@ -1,3 +1,7 @@
+# Emacs Lispでシンプルな自作言語のコンパイラを書いた
+date: 2024-12-16
+url: https://qiita.com/sonota88/items/a8b612e75b8f13d55772
+
 # MinRubyを改造する 2024（REPLと宇宙線演算子の追加）
 date: 2024-12-14
 url: https://zenn.dev/sonota88/articles/6e05c93d3150b3
