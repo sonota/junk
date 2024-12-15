@@ -1,3 +1,7 @@
+# LibreOffice Calc/Basic: セル内の数式で自作マクロの関数を使う
+date: 2024-12-08
+url: https://memo88.hatenablog.com/entry/libreoffice-calc-basic-macro-function
+
 # Swiftでシンプルな自作言語のコンパイラを書いた
 date: 2024-12-03
 url: https://qiita.com/sonota88/items/309753549677ccf8209d
