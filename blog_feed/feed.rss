@@ -14,6 +14,7 @@
     <description>TODO</description>
     <items>
       <rdf:Seq>
+        <rdf:li resource="https://zenn.dev/sonota88/articles/6e05c93d3150b3"/>
         <rdf:li resource="https://memo88.hatenablog.com/entry/libreoffice-calc-basic-macro-function"/>
         <rdf:li resource="https://qiita.com/sonota88/items/309753549677ccf8209d"/>
         <rdf:li resource="https://memo88.hatenablog.com/entry/gradle-task-graph-dependency-graphviz"/>
@@ -81,6 +82,11 @@
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://zenn.dev/sonota88/articles/6e05c93d3150b3">
+    <title>MinRubyを改造する 2024（REPLと宇宙線演算子の追加）</title>
+    <link>https://zenn.dev/sonota88/articles/6e05c93d3150b3</link>
+    <dc:date>2024-12-14T12:00:00+09:00</dc:date>
+  </item>
   <item rdf:about="https://memo88.hatenablog.com/entry/libreoffice-calc-basic-macro-function">
     <title>LibreOffice Calc/Basic: セル内の数式で自作マクロの関数を使う</title>
     <link>https://memo88.hatenablog.com/entry/libreoffice-calc-basic-macro-function</link>

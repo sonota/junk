@@ -1,3 +1,7 @@
+# MinRubyを改造する 2024（REPLと宇宙線演算子の追加）
+date: 2024-12-14
+url: https://zenn.dev/sonota88/articles/6e05c93d3150b3
+
 # LibreOffice Calc/Basic: セル内の数式で自作マクロの関数を使う
 date: 2024-12-08
 url: https://memo88.hatenablog.com/entry/libreoffice-calc-basic-macro-function
