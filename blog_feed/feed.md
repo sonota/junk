@@ -1,3 +1,7 @@
+# SDL-Crystal-Bindingsをちょっと触ってみた
+date: 2025-01-04
+url: https://qiita.com/sonota88/items/dafa9fc8a9afa8bfc264
+
 # Emacs Lispでシンプルな自作言語のコンパイラを書いた
 date: 2024-12-16
 url: https://qiita.com/sonota88/items/a8b612e75b8f13d55772
