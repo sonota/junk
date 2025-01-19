@@ -1,3 +1,7 @@
+# Web Audio API: GainNode.gain に指定する値について調べたメモ
+date: 2025-01-19
+url: https://memo88.hatenablog.com/entry/web-audio-api-gainnode-gain-value
+
 # SDL-Crystal-Bindingsをちょっと触ってみた
 date: 2025-01-04
 url: https://qiita.com/sonota88/items/dafa9fc8a9afa8bfc264
